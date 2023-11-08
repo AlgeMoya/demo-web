@@ -52,8 +52,7 @@ out/
 *.jar
 *.war
 *.nar
-*.ear
-*.zip
+*.earp
 *.tar.gz
 *.rar
 
